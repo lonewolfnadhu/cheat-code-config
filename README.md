@@ -52,9 +52,9 @@ b) Git
 
 ### a) Git Workflow
 [<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-1.pdf">](https://github.com/lonewolfnadhu/git-cheat-code)
-[<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-2.pdf">](https://github.com/lonewolfnadhu/git-cheat-code)
-[<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-3.pdf">](https://github.com/lonewolfnadhu/git-cheat-code)
-[<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-4.pdf">](https://github.com/lonewolfnadhu/git-cheat-code)
+[<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-2.png">](https://github.com/lonewolfnadhu/git-cheat-code)
+[<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-3.png">](https://github.com/lonewolfnadhu/git-cheat-code)
+[<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-4.png">](https://github.com/lonewolfnadhu/git-cheat-code)
 
 
 ## Git (Cheat Code)
