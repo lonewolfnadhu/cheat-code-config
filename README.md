@@ -42,6 +42,19 @@ Step #03: git config --list
 ```
 
 
+## Repository Includes
+
+```
+a) Git Workflow
+
+b) Git
+```
+
+### a) Git Workflow
+[<img src="https://github.com/lonewolfnadhu/ios/blob/master/resources/how-does-an-app-work.png">](https://github.com/lonewolfnadhu/ios)
+
+
+
 ## Git (Cheat Code)
 ```
 Tip #01: git --version   <<<OR>>>   git version
