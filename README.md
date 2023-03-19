@@ -1,63 +1,55 @@
-# Git (Cheat Code) [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/git-icon.png">](https://github.com/lonewolfnadhu/git-cheat-code)
-Created by [Nadir Shah](https://linktr.ee/lonewolfnadhu)
+# Git (Cheat Code) [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu/git-cheat-code)
+Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
+## 1) Git (Cheat Sheet)
+[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-1.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-1.png)
+[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-2.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-2.png)
 
-## 'SSH Authentication' with GitHub
+## 2) Git (Workflow)
+[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-1.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-1.png)
+[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-2.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-2.png)
+[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-3.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-3.png)
+[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-4.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-4.png)
+
+## 3) Set global 'User Name' and 'Email Id'
 ```
-Step #01: cd ~
-// Go to the main user directory (folder)
-
-Step #02: pwd
-// Make sure we are in main directory (folder)
-
-Step #03: cd .ssh
-// Check whether there any '.ssh' file
-
-Step #04: mkdir .ssh
-// Create '.ssh' file
-
-Step #05: ssh-keygen -t rsa -C "lonewolfnadhu@gmail.com"
-// Generate new ssh keygen (FYI: Make sure we are in main directory)
-
-Step #06: ls -al
-// Show all files in '.ssh' folder (FYI: Make sure we have 'id_rsa' and 'id_rsa.pub' files in '.ssh' folder)
-
-Step #07: // Open 'id_rsa.pub' file and copy everthing and paste in github website where it shows to setup ssh key
-
-Step #08: ssh -T git@github.com
-// Connect to github over ssh protocol
-```
-
-
-## Set global User Name / Email Id
-```
-Step #01: git config --global user.name "Nadir Shah"
+Step #1: git config --global user.name "Nadir Shah"
 // Set User Name globally
 
-Step #02: git config --global user.email "lonewolfnadhu@gmail.com"
+Step #2: git config --global user.email "lonewolfnadhu@gmail.com"
 // Set Email Id globally
 
-Step #03: git config --list
+Step #3: git config --list
 // Shows global Git configuration
 ```
 
-
-## Repository Includes
-
+## 4) GitHub 'SSH Authentication' 
 ```
-a) Git Workflow
+Step #1: cd ~
+// Go to the main user directory (folder)
 
-b) Git
+Step #2: pwd
+// Make sure we are in main directory (folder)
+
+Step #3: cd .ssh
+// Check whether there any '.ssh' file
+
+Step #4: mkdir .ssh
+// Create '.ssh' file
+
+Step #5: ssh-keygen -t rsa -C "lonewolfnadhu@gmail.com"
+// Generate new ssh keygen (FYI: Make sure we are in main directory)
+
+Step #6: ls -al
+// Show all files in '.ssh' folder (FYI: Make sure we have 'id_rsa' and 'id_rsa.pub' files in '.ssh' folder)
+
+Step #7: // Open 'id_rsa.pub' file and copy everthing and paste in github website where it shows to setup ssh key
+
+Step #8: ssh -T git@github.com
+// Connect to github over ssh protocol
 ```
 
-### a) Git Workflow
-[<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-1.pdf">](https://github.com/lonewolfnadhu/git-cheat-code)
-[<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-2.png">](https://github.com/lonewolfnadhu/git-cheat-code)
-[<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-3.png">](https://github.com/lonewolfnadhu/git-cheat-code)
-[<img src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-workflow-4.png">](https://github.com/lonewolfnadhu/git-cheat-code)
-
-
-## Git (Cheat Code)
+## 5) Most used Git commands
 ```
 Tip #01: git --version   <<<OR>>>   git version
 // Show git version
@@ -167,20 +159,27 @@ Tip #32: git branch
 // To check all branches in the current repository
 ```
 
+## 6) Git (Certificate)
+[<img height="450" width="650" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-certificate.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-certificate.pdf)
 
-## Connect with me [<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/projects-icon.png">](https://github.com/lonewolfnadhu/lonewolfnadhu/tree/main/my-favourite-configurations)
+<!-- Connect | START -->
+[<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu/git-cheat-code)
 
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/nadir-icon.jpg">](https://linktr.ee/lonewolfnadhu)
-
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/instagram-icon.png">](https://www.instagram.com/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/linkedin-icon.png">](https://www.linkedin.com/in/lonewolfnadhu/)
-[<img src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/icons/github-icon.png">](https://github.com/lonewolfnadhu)
+## Connect with me
 
 
-Show your support!
+[<img height="200" width="200" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir-shah.jpg">](https://github.com/lonewolfnadhu/git-cheat-code)
 
+[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
+[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linkedin.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
+[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu)
 
 Made with ❤️
 
-
 Copyright © 2016-2023 [Nadir Shah](https://linktr.ee/lonewolfnadhu)
+<!-- Connect | END -->
+
+
+
+
+
