@@ -1,4 +1,4 @@
-# Cheat Code | Configurations | Shortcuts [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu/git-cheat-code)
+# Cheat Code | Configurations | Shortcuts [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu/cheat-code-config)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
 ## Repository Includes
@@ -16,14 +16,14 @@ Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 ```
 
 ### 01) Git (Cheat Sheet)
-[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-1.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-1.png)
-[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-2.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-2.png)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/atlassian-git-cheatsheet-1.png">](https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/atlassian-git-cheatsheet-1.png)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/atlassian-git-cheatsheet-2.png">](https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/atlassian-git-cheatsheet-2.png)
 
 ### 02) Git (Workflow)
-[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-1.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-1.png)
-[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-2.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-2.png)
-[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-3.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-3.png)
-[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-4.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-4.png)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/git-workflow-1.png">](https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/git-workflow-1.png)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/git-workflow-2.png">](https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/git-workflow-2.png)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/git-workflow-3.png">](https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/git-workflow-3.png)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/git-workflow-4.png">](https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/git-workflow-4.png)
 
 ### 03) Set global 'User Name' and 'Email Id'
 ```
@@ -273,15 +273,15 @@ Step #2: Type 'emulator -avd Pixel'
 ```
 
 ### 10) Git (Certificate)
-[<img height="450" width="650" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-certificate.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-certificate.pdf)
+[<img height="450" width="650" src="https://github.com/lonewolfnadhu/cheat-code-config/blob/main/assets/git-certificate.png">](https://github.com/lonewolfnadhu/cheat-code-config/blob/main/resources/git-certificate.pdf)
 
 <!-- Connect | START -->
-[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu/git-cheat-code)
+[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu/cheat-code-config)
 
 ## Connect with me
 
 
-[<img height="200" width="200" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir-shah.jpg">](https://github.com/lonewolfnadhu/git-cheat-code)
+[<img height="200" width="200" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir-shah.jpg">](https://github.com/lonewolfnadhu/cheat-code-config)
 
 [<img width="35px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
 [<img width="35px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linkedin.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
