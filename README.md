@@ -1,7 +1,7 @@
 # Git (Cheat Code) [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu/git-cheat-code)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
-## Repository Includes [<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/header.gif"/>](https://github.com/lonewolfnadhu)
+## Repository Includes
 ```
 1) Git (Cheat Sheet)
 2) Git (Workflow)
