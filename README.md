@@ -1,8 +1,7 @@
 # Git (Cheat Code) [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu/git-cheat-code)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
-
-[<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu)
+## Repository Includes [<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/heading.gif"/>](https://github.com/lonewolfnadhu)
 ```
 1) Git (Cheat Sheet)
 2) Git (Workflow)
@@ -174,16 +173,16 @@ Tip #32: git branch
 [<img height="450" width="650" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-certificate.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-certificate.pdf)
 
 <!-- Connect | START -->
-[<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu/git-cheat-code)
+[<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu/git-cheat-code)
 
 ## Connect with me
 
 
 [<img height="200" width="200" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir-shah.jpg">](https://github.com/lonewolfnadhu/git-cheat-code)
 
-[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
-[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linkedin.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
-[<img width="40px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu)
+[<img width="35px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
+[<img width="35px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/linkedin.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
+[<img width="35px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu)
 
 Made with ❤️
 
