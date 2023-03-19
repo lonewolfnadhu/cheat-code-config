@@ -8,11 +8,11 @@ Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 03) Set global 'User Name' and 'Email Id'
 04) GitHub 'SSH Authentication'
 05) Most used Git commands
-06) Git (Certificate)
-07) 'Terminal' configuration
-08) 'VS Code' configuration
-09) Open an 'iOS Simulator'
-10) Open an 'Android Emulator'
+06) 'Terminal' configuration
+07) 'VS Code' configuration
+08) Open an 'iOS Simulator'
+09) Open an 'Android Emulator'
+10) Git (Certificate)
 ```
 
 ### 01) Git (Cheat Sheet)
@@ -173,10 +173,7 @@ Tip #32: git branch
 // To check all branches in the current repository
 ```
 
-### 06) Git (Certificate)
-[<img height="450" width="650" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-certificate.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-certificate.pdf)
-
-### 07) 'Terminal' configuration
+### 06) 'Terminal' configuration
 ```
 [FYI: Configure 'Terminal' as below for better performance and making work faster]
 
@@ -216,7 +213,8 @@ Reference:
 https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell-and-powerlevel10k-6484461c6efb
 ```
 
-### 08) 'VS Code' configuration
+### 07) 'VS Code' configuration
+```
 [FYI: Install below 'VS Code' packages to make your IDE more stable and for better performance]
 
 Package #01: 'React Native Tools'
@@ -256,7 +254,7 @@ Package #17: 'Night Owl' [Note: Theme for the 'IDE']
 Package #18: 'code .' [Note: To open 'VS Code']
 ```
 
-### 09) Open an 'iOS Simulator'
+### 08) Open an 'iOS Simulator'
 ```
 Step #1: Type 'xcrun simctl list devices'
 [FYI: List all 'iOS Simulators' / 'Physical Devices']
@@ -265,7 +263,7 @@ Step #2: Type 'open -a Simulator'
 [FYI: To open ios simulator, Default will be 'iPhone 14']
 ```
 
-### 10) Open an 'Android Emulator'
+### 09) Open an 'Android Emulator'
 ```
 Step #1: Type 'adb devices'
 FYI: List all 'Android Emulators' / 'Physical Devices']
@@ -273,6 +271,9 @@ FYI: List all 'Android Emulators' / 'Physical Devices']
 Step #2: Type 'emulator -avd Pixel'
 [FYI: To open android emulator named 'Pixel', if it doen't open type 'source ~/.bash_profile' then type 'emulator -avd Pixel' again]
 ```
+
+### 10) Git (Certificate)
+[<img height="450" width="650" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-certificate.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-certificate.pdf)
 
 <!-- Connect | START -->
 [<img align="left" height="50" width="50" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu/git-cheat-code)
