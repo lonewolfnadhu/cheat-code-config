@@ -1,17 +1,28 @@
 # Git (Cheat Code) [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu/git-cheat-code)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
-## 1) Git (Cheat Sheet)
-[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-1.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-1.png)
-[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-2.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-2.png)
 
-## 2) Git (Workflow)
-[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-1.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-1.png)
-[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-2.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-2.png)
-[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-3.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-3.png)
-[<img height="300" width="500" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-4.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-4.png)
+[<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/connect-me.gif"/>](https://github.com/lonewolfnadhu)
+```
+1) Git (Cheat Sheet)
+2) Git (Workflow)
+3) Set global 'User Name' and 'Email Id'
+4) GitHub 'SSH Authentication'
+5) Most used Git commands
+6) Git (Certificate)
+```
 
-## 3) Set global 'User Name' and 'Email Id'
+### 1) Git (Cheat Sheet)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-1.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-1.png)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-2.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/atlassian-git-cheatsheet-2.png)
+
+### 2) Git (Workflow)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-1.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-1.png)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-2.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-2.png)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-3.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-3.png)
+[<img height="250" width="400" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-4.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-workflow-4.png)
+
+### 3) Set global 'User Name' and 'Email Id'
 ```
 Step #1: git config --global user.name "Nadir Shah"
 // Set User Name globally
@@ -23,7 +34,7 @@ Step #3: git config --list
 // Shows global Git configuration
 ```
 
-## 4) GitHub 'SSH Authentication' 
+### 4) GitHub 'SSH Authentication'
 ```
 Step #1: cd ~
 // Go to the main user directory (folder)
@@ -49,7 +60,7 @@ Step #8: ssh -T git@github.com
 // Connect to github over ssh protocol
 ```
 
-## 5) Most used Git commands
+### 5) Most used Git commands
 ```
 Tip #01: git --version   <<<OR>>>   git version
 // Show git version
@@ -159,7 +170,7 @@ Tip #32: git branch
 // To check all branches in the current repository
 ```
 
-## 6) Git (Certificate)
+### 6) Git (Certificate)
 [<img height="450" width="650" src="https://github.com/lonewolfnadhu/git-cheat-code/blob/main/assets/git-certificate.png">](https://github.com/lonewolfnadhu/git-cheat-code/blob/main/resources/git-certificate.pdf)
 
 <!-- Connect | START -->
