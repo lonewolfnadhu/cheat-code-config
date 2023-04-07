@@ -1,6 +1,8 @@
 # Cheat Code | Configurations | Shortcuts [<img align="left" height="55" width="55" alt="GIF" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu/cheat-code-config)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
+This is my preferred 'cheat code', configuration, shortcut, or other productivity technique.
+
 ## Repository Includes
 ```
 01) Git (Cheat Sheet)
